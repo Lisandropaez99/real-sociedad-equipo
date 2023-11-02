@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+}
+
+body{
+    background-color: #135e38;
+}
+
+li {
+    display: inline-block;
+    text-decoration-line: none;
+    text-align: center;
+    width: auto;
+    color: #fff;
+    margin-top: 10px;
+}
+
+ul{
+    background-color: #000;
+    border: #aaa dashed 1px;
+    height: 40px;
+    text-align: center;
+    
+}
+i{
+    margin: 0 5px;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+    font-weight: 400px;
+    margin: 20px;
+}
+
+p{
+    width: auto;
+    text-align: justify;
+    font-size: 20px;
+    margin: 30px 30px 40px 10px;
+}
+
+.img__escudo{
+    float: right;
+    width: 30%;
+    height: 20%;
+    margin: 20px;
+    border-radius: 10px;
+    border: #fff dashed 1px;
+}
+
+.img__equipo {
+    width: 50%;
+    height: 20%;
+    margin: 30px auto;
+    border-radius: 10px;
+    border: #fff dashed 1px;
+
+}
+
